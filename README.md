@@ -4,17 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irene+Canelas!;" />
 </h1>
 
-<h3 align="center">A passionate Full-Stack Software Developer from Portugal 🇵🇹</h3>
+<h3 align="center">A passionate Software Developer from Portugal 🇵🇹</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Frontend Development**
+ 🔭 I’m work in **Frontend Development** since 2021!
 
- ⚡ I'm currently doing my Master's degree in **Software Engineering**
+ 🔭 I also work with **Backend Development**, specially **Java or Javascript Frameworks!**
+
+ ⚡ I'm in my Master's degree in **Software Engineering** at [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/Course/Course/87)
  
- 🌱 I’m currently coding **React.js and Node.js** projects for learning purposes! They are available in my **"Frontend" [repository](https://github.com/IreneCanelas/Frontend)**
+ 🌱 I’m coding **React.js and Node.js** projects whenever I can for learning purposes! They are available in my **"Frontend" [repository](https://github.com/IreneCanelas/Frontend)**
 
 💬 Learn more **about me** [here](https://www.linkedin.com/in/ireneccanelas/)
 
@@ -48,13 +50,3 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
