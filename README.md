@@ -16,7 +16,7 @@
 
  ⚡ I'm in my Master's degree in **Software Engineering** at [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/Course/Course/87)
  
- 🌱 I’m coding **React.js and Node.js** projects whenever I can for learning purposes! They are available in my **"Frontend" [repository](https://github.com/IreneCanelas/Frontend)**
+ 🌱 I’m coding **React.js and Node.js** projects whenever I can for learning purposes! They are available in my **"Frontend" [repository](https://github.com/IreneCanelas/Frontend)** or my **"Full-Stack" [repository](https://github.com/IreneCanelas/FullStack)**
 
 💬 Learn more **about me** [here](https://www.linkedin.com/in/ireneccanelas/)
 
