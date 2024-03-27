@@ -14,9 +14,9 @@
 
  ⚡ I'm currently doing my Master's degree in **Software Engineering**
  
- 🌱 I’m currently coding **React.js and Node.js** projects for learning purposes! They are available in my **"Frontend" development [repository](https://github.com/IreneCanelas/Frontend)**
+ 🌱 I’m currently coding **React.js and Node.js** projects for learning purposes! They are available in my **"Frontend" [repository](https://github.com/IreneCanelas/Frontend)**
 
-💬 Learn more **about me** [here](https://www.linkedin.com/in/ireneccanelas/)**
+💬 Learn more **about me** [here](https://www.linkedin.com/in/ireneccanelas/)
 
  </div>
  
