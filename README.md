@@ -1,22 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IreneCanelas.IreneCanelas" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&font-color=red&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irene+Canelas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irene+Canelas!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Portugal 🇵🇹</h3>
+<h3 align="center">A passionate Full-Stack Software Developer from Portugal 🇵🇹</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Frontend Development**
+
+ ⚡ I'm currently doing my Master's degree in **Software Engineering**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently coding **React.js and Node.js** projects for learning purposes! They are available in my **"Frontend" development [repository](https://github.com/IreneCanelas/Frontend)**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Learn more **about me** [here](https://www.linkedin.com/in/ireneccanelas/)**
 
  </div>
  
