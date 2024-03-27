@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IreneCanelas.IreneCanelas" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irene+Canelas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&fontColor=red&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Irene+Canelas!;" />
 </h1>
 
 <h3 align="center">A passionate Software Developer from Portugal 🇵🇹</h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m work in **Frontend Development** since 2021!
+ 🔭 I work in **Frontend Development** since 2021!
 
  🔭 I also work with **Backend Development**, specially **Java or Javascript Frameworks!**
 
